@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Konversi Suhu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="about">Aplikasi Konversi Suhu ini bisa anda gunakan untuk melakukan perhitungan konversi suhu. \nAplikasi ini mampu merubah dari suhu Celcius ke Reamur, Fahrenheit dan Kelvin </string>
+    <string name="text_result">Hasil : %s</string>
+    <string name="image_content_description">image</string>
+    <string name="internet_bermasalah">Internet Bermasalah</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gambar">gambar</string>
+    <string name="cek_berita">Cek Berita</string>
+    <string name="suhu">Suhu :</string>
+    <string name="masukan_suhu_c">Masukan Suhu (C)</string>
+    <string name="batal">Batal</string>
+    <string name="ubah">Ubah</string>
+
+</resources>
